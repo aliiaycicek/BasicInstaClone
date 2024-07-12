@@ -1,0 +1,6 @@
+framework module Pods_BasicInstaClone {
+  umbrella header "Pods-BasicInstaClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
